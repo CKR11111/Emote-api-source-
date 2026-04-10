@@ -1,6 +1,6 @@
 flask
 requests
-protobuf
+protobuf==3.20.3
 protobuf-decoder
 aiohttp
 pyjwt
